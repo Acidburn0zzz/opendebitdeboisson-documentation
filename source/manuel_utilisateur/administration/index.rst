@@ -20,15 +20,11 @@ Dans ce paragraphe il est décrit les principaux éléments pour le manuel utili
 https://docs.openmairie.org/?project=framework&version=4.9&format=html&path=usage/administration
 
 
-********************************
-Saisie des " Termes " de licence
-********************************
+*****************
+Termes de licence
+*****************
 
-paramétrage => Terme
-
-Il s'agit des termes de durée qualifiant une demande de licence.
-
-Ils sont utilisés dans le formulaire de demande de licence et de demande de licence temporaire.
+Un terme de licence permet de caractériser une demande de licence. Ils sont utilisés dans le formulaire de demande de licence et de demande de licence temporaire.
 
 De base les demandes de licence peuvent être :
 
@@ -37,11 +33,9 @@ De base les demandes de licence peuvent être :
 • " Liée à un terrain de sport ".
 
 
-************************************
-Saisie des "type_demande" de licence
-************************************
-
-paramétrage => Type_demande
+****************
+Types de demande
+****************
 
 Il s'agit des types de demande de licence.
 
