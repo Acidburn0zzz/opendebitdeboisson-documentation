@@ -29,39 +29,12 @@ http://www.openmairie.org/catalogue/opendebitdeboisson
 Ce document a pour but de guider les utilisateurs et les développeurs dans la prise en main du projet. Bonne lecture et n'hésitez pas à venir discuter du projet avec la communauté à l’adresse suivante : https://communaute.openmairie.org/c/autres-applications-openmairie
 
 
-Ergonomie
-=========
+Manuel de l'utilisateur
+=======================
 
 .. toctree::
 
-   ergonomie/index.rst
-
-
-
-Suivi de l'instruction
-======================
-
-.. toctree::
-
-   instruction/index.rst
-
-
-
-Les possibilités de non-conformité d'une demande de licence
-===========================================================
-
-.. toctree::
-
-   conformite/index.rst
-
-
-
-Paramétrage
-===========
-
-.. toctree::
-
-   parametrage/index.rst
+   manuel_utilisateur/index.rst
 
 
 
