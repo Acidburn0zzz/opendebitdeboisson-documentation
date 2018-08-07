@@ -1,7 +1,7 @@
 .. opendebitdeboisson documentation master file
 
 ====================================
-openDébitDeBoisson 1.x documentation
+openDébitDeBoisson 2.0 documentation
 ====================================
 
 .. note::
@@ -77,5 +77,8 @@ Contributeurs
 
 (par ordre alphabétique)
 
+* Thierry BENITA
+* Sophie LACROIX
+* Florent MICHON
 * Cyril SAHUC
 

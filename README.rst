@@ -1,10 +1,10 @@
 ====================================
-openDébitDeBoisson Documentation 1.x
+openDébitDeBoisson Documentation 2.0
 ====================================
 
-.. image:: http://readthedocs.org/projects/opendebitdeboisson/badge/?version=1.x
-    :target: http://openmairie.readthedocs.io/projects/opendebitdeboisson/fr/1.x/?badge=1.x
+.. image:: http://readthedocs.org/projects/opendebitdeboisson/badge/?version=2.0
+    :target: http://openmairie.readthedocs.io/projects/opendebitdeboisson/fr/2.0/?badge=2.0
     :alt: Documentation Status
 
-.. image:: https://travis-ci.com/openmairie/opendebitdeboisson-documentation.svg?branch=1.x
+.. image:: https://travis-ci.com/openmairie/opendebitdeboisson-documentation.svg?branch=2.0
     :target: https://travis-ci.com/openmairie/opendebitdeboisson-documentation
