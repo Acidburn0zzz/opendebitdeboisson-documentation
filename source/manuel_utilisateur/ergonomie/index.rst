@@ -217,6 +217,18 @@ Widgets
 =======
 
 
-- Widget 'Dernières demandes'
-- Widget 'Statistiques Licences par type'
+Widget 'Dernières demandes'
+===========================
+
+.. image:: a_widget_dernieres_demandes.png
+
+Ce widget affiche les 10 dernières demandes de licences triées par date de demande décroissante. Un lien permet d'accéder directement à la demande en question dans le contexte de l'établissement.
+
+
+Widget 'Statistiques Licences par type'
+=======================================
+
+.. image:: a_widget_statistiques_licences_par_type.png
+
+Ce widget affiche le nombre de demandes de licences par type de licence dont le terme est permanent. Un lien "Export CSV" permet d'accéder à la requête mémorisée pour exporter les statistiques dans un tableur.
 
