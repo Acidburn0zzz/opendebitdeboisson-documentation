@@ -8,3 +8,4 @@ openDébitDeBoisson Documentation 2.0
 
 .. image:: https://travis-ci.com/openmairie/opendebitdeboisson-documentation.svg?branch=2.0
     :target: https://travis-ci.com/openmairie/opendebitdeboisson-documentation
+
