@@ -62,6 +62,7 @@ Les spécificités d'un établissement temporaire
 
 Il existe un sous-type d'établissement (appelé établissement temporaire) qui est une variante plus simplifiée d'un établissement, non-géolocalisable, ne pouvant demander que des demandes de licences temporaire ou liée à un terrain de sport.
 
+.. image:: a_instruction-etablissement_temporaire-formulaire-ajout.png
 
 ************************
 Le périmètre d'exclusion
