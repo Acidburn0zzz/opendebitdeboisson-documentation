@@ -136,7 +136,7 @@ Les spécificités de la demande de licence sur un établissement temporaire
 
 - Une demande sur un établissement temporaire est toujours de type "D''OUVERTURE".
 - Une demande sur un établissement ne peut pas avoir un terme "Permanente".
-- On ne propose pas le champ 'particularite'.
+
 
 ===========================================================
 Les possibilités de non-conformité d'une demande de licence
