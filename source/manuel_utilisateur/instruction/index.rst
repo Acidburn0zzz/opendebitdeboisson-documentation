@@ -119,6 +119,7 @@ La saisie des informations d'une demande de licence
 Les champs sont les suivants : 
 
 - **Date de la demande** (obligatoire) : ... . Au premier chargement du formulaire d'ajout, le champ est pré-rempli avec la date du jour.
+- **Date de la précédente demande** : ... . Au premier chargement du formulaire d'ajout, le champ est pré-rempli avec la plus grande date de début de validité de toutes les demandes de licence de l'établissement.
 - **Terme de la licence** (obligatoire) : (Permanente, Temporaire, Liée à un terrain de sport)
 - **Date de début de validité de la licence** (obligatoire) : ...
 - **Heure de début de validité de la licence** (obligatoire) : ... . Au premier chargement du formulaire d'ajout, le champ est pré-rempli avec la valeur ``00:00:00``.
