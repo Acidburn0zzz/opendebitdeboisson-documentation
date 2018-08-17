@@ -130,6 +130,26 @@ Les champs sont les suivants :
 - **Type de demande** (obligatoire) : (d'ouverture/de transfert/de mutation)
 - **Type de licence** (obligatoire) : (catégorie 1/2/3/4, de grande restauration, etc...)
 
+=====================================================
+Les actions disponibles depuis une demande de licence
+=====================================================
+
+.. image:: a_instruction-demande_licence-permanent-formulaire-actions.png
+
+Les actions disponibles depuis une demande de licence permanente :
+
+- **CERFA de déclaration** : utilise l'état dont l'identifiant est *cerfa_declaration*
+- **Récépissé** : utilise l'état dont l'identifiant est *recepisse*
+- **Récépissé avec co-exploitant** : utilise l'état dont l'identifiant est *recepisse_co_exploitant*
+- **Licence temporaire avec réponse** :  utilise l'état dont l'identifiant est *demande_temp_reponse*
+
+.. image:: a_instruction-demande_licence-temporaire-formulaire-actions.png
+
+Les actions disponibles depuis une demande de licence temporaire :
+
+- **CERFA de déclaration** : utilise l'état dont l'identifiant est *cerfa_declaration*
+- **Récépissé** : utilise l'état dont l'identifiant est *recepisse*
+- **Licence temporaire avec réponse** :  utilise l'état dont l'identifiant est *demande_temp_reponse*
 
 =========================================================================
 Les spécificités de la demande de licence sur un établissement temporaire
