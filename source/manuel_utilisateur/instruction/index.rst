@@ -45,8 +45,21 @@ Les champs sont les suivants :
 - Coordonnées du propriétaire : il est possible de copier les valeurs de l'exploitant dans celles du propriétaire grâce à la case à cocher "Identique à l'exploitant"
 - Date de fermeture/liquidation
 
+.. _instruction_etablissement_formulaire_adresse_postale:
 
-.. image:: image11.jpeg
+La saisie de la localisation par l'adresse postale
+==================================================
+
+Depuis le formulaire d'ajout et de modification d'un établissement, il est possible de saisir automatiquement sa localisation en sélectionnant une adresse postale. Cela permet également de géolocaliser l'établissement.
+
+.. image:: a_instruction-etablissement-formulaire-adresse_postale.png
+
+Sur le formulaire d'ajout, par défaut les champs composants l'adresse sont bloqués, ils sont remplis automatiquement à la selection d'une adresse postale. Le champ permettant de sélectionner une adresse postale est un champ de recherche avec auto-complétion qui va cherche dans la table de référence des adresses postale.
+
+Il est possible de passer en saisie manuelle en cochant la case "Activer la saisie manuelle".
+
+Sur le formulaire de modification, la saisie manuelle est activée par défaut. Si celle-ci est désactivée une message demande de confirmer la suppression des valeurs des champs de l'adresse.
+Sélectionner une nouvelle adresse postale changera également la géolocalisation de l'établissement.
 
 
 Trois nouveaux onglets sont actifs suite à la saisie :
@@ -99,8 +112,14 @@ Les champs sont les suivants :
 - **Longueur exclusion** (obligatoire) : ... . Au premier chargement du formulaire d'ajout, le champ est pré-rempli avec la valeur ``150``.
 - Localisation
 
+La saisie de la localisation par l'adresse postale
+==================================================
 
-.. image:: image13.jpeg
+Depuis le formulaire d'ajout et de modification d'un périmètre d'exclusion, il est possible de saisir automatiquement sa localisation en sélectionnant une adresse postale. Cela permet également de géolocaliser le périmètre d'exclusion.
+
+.. image:: a_instruction-perimetre-formulaire-adresse_postale.png
+
+Le fonctionnement est identique à :ref:`la saisie de l'adresse postale d'un établissement<instruction_etablissement_formulaire_adresse_postale>`.
 
 *********************
 La demande de licence
