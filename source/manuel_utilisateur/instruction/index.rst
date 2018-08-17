@@ -42,7 +42,7 @@ Les champs sont les suivants :
 - Date du permis d'exploitation
 - localisation (avec géolocalisation)
 - Coordonnées de l'exploitant
-- Coordonnées du propriétaire
+- Coordonnées du propriétaire : il est possible de copier les valeurs de l'exploitant dans celles du propriétaire grâce à la case à cocher "Identique à l'exploitant"
 - Date de fermeture/liquidation
 
 
