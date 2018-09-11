@@ -42,11 +42,24 @@ Les champs sont les suivants :
 - Date du permis d'exploitation
 - localisation (avec géolocalisation)
 - Coordonnées de l'exploitant
-- Coordonnées du propriétaire
+- Coordonnées du propriétaire : il est possible de copier les valeurs de l'exploitant dans celles du propriétaire grâce à la case à cocher "Identique à l'exploitant"
 - Date de fermeture/liquidation
 
+.. _instruction_etablissement_formulaire_adresse_postale:
 
-.. image:: image11.jpeg
+La saisie de la localisation par l'adresse postale
+==================================================
+
+Depuis le formulaire d'ajout et de modification d'un établissement, il est possible de saisir automatiquement sa localisation en sélectionnant une adresse postale. Cela permet également de géolocaliser l'établissement.
+
+.. image:: a_instruction-etablissement-formulaire-adresse_postale.png
+
+Sur le formulaire d'ajout, par défaut les champs composants l'adresse sont bloqués, ils sont remplis automatiquement à la selection d'une adresse postale. Le champ permettant de sélectionner une adresse postale est un champ de recherche avec auto-complétion qui va cherche dans la table de référence des adresses postale.
+
+Il est possible de passer en saisie manuelle en cochant la case "Activer la saisie manuelle".
+
+Sur le formulaire de modification, la saisie manuelle est activée par défaut. Si celle-ci est désactivée une message demande de confirmer la suppression des valeurs des champs de l'adresse.
+Sélectionner une nouvelle adresse postale changera également la géolocalisation de l'établissement.
 
 
 Trois nouveaux onglets sont actifs suite à la saisie :
@@ -99,8 +112,14 @@ Les champs sont les suivants :
 - **Longueur exclusion** (obligatoire) : ... . Au premier chargement du formulaire d'ajout, le champ est pré-rempli avec la valeur ``150``.
 - Localisation
 
+La saisie de la localisation par l'adresse postale
+==================================================
 
-.. image:: image13.jpeg
+Depuis le formulaire d'ajout et de modification d'un périmètre d'exclusion, il est possible de saisir automatiquement sa localisation en sélectionnant une adresse postale. Cela permet également de géolocaliser le périmètre d'exclusion.
+
+.. image:: a_instruction-perimetre-formulaire-adresse_postale.png
+
+Le fonctionnement est identique à :ref:`la saisie de l'adresse postale d'un établissement<instruction_etablissement_formulaire_adresse_postale>`.
 
 *********************
 La demande de licence
@@ -130,6 +149,26 @@ Les champs sont les suivants :
 - **Type de demande** (obligatoire) : (d'ouverture/de transfert/de mutation)
 - **Type de licence** (obligatoire) : (catégorie 1/2/3/4, de grande restauration, etc...)
 
+=====================================================
+Les actions disponibles depuis une demande de licence
+=====================================================
+
+.. image:: a_instruction-demande_licence-permanent-formulaire-actions.png
+
+Les actions disponibles depuis une demande de licence permanente :
+
+- **CERFA de déclaration** : utilise l'état dont l'identifiant est *cerfa_declaration*
+- **Récépissé** : utilise l'état dont l'identifiant est *recepisse*
+- **Récépissé avec co-exploitant** : utilise l'état dont l'identifiant est *recepisse_co_exploitant*
+- **Licence temporaire avec réponse** :  utilise l'état dont l'identifiant est *demande_temp_reponse*
+
+.. image:: a_instruction-demande_licence-temporaire-formulaire-actions.png
+
+Les actions disponibles depuis une demande de licence temporaire :
+
+- **CERFA de déclaration** : utilise l'état dont l'identifiant est *cerfa_declaration*
+- **Récépissé** : utilise l'état dont l'identifiant est *recepisse*
+- **Licence temporaire avec réponse** :  utilise l'état dont l'identifiant est *demande_temp_reponse*
 
 =========================================================================
 Les spécificités de la demande de licence sur un établissement temporaire
