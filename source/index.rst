@@ -52,6 +52,8 @@ Contributeurs
 
 * Thierry BENITA
 * Sophie LACROIX
+* Grégory MALVOLTI
 * Florent MICHON
 * Cyril SAHUC
+* Sofien TIMEZOAUGHT
 
