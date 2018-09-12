@@ -10,4 +10,5 @@ Manuel de l'utilisateur
 
     ergonomie/index.rst
     instruction/index.rst
+    export/index.rst
     administration/index.rst
