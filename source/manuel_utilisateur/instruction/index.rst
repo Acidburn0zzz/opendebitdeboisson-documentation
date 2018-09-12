@@ -183,12 +183,12 @@ Les possibilités de non-conformité d'une demande de licence
 ===========================================================
 
 
-en rapport avec la géolocalisation
-==================================
+pour les établissements géolocalisés
+====================================
 
 Il y a 2 cas, pour chaque cas un message s'affiche :
 
-• la distance entre la géolocalisation de l'établissement de la demande de licence concernée et toute les géolocalisations de périmètre interdit pour les demandes d'ouverture et de mutation permanente n'étant pas de première catégorie.
+• la distance entre la géolocalisation de l'établissement de la demande de licence concernée et toutes les géolocalisations de périmètre interdit pour les demandes d'ouverture et de mutation permanente n'étant pas de première catégorie.
 
 .. image:: a_instruction-demande_licence-formulaire-message-perimetre-exclusion.png
 
