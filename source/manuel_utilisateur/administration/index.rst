@@ -20,6 +20,9 @@ Dans ce paragraphe il est décrit les principaux éléments pour le manuel utili
 https://docs.openmairie.org/?project=framework&version=4.9&format=html&path=usage/administration
 
 
+.. contents::
+
+
 *****************
 Termes de licence
 *****************
@@ -48,9 +51,9 @@ De base ils peuvent être :
 • " DE MUTATION ".
 
 
-***************************
-Saisie des " Type_licence "
-***************************
+*****************
+Types de licences
+*****************
 
 paramétrage => Type_licence
 
@@ -68,5 +71,37 @@ De base ils peuvent être :
 • " grande à emportée ".
 • " petite restauration ".
 • " grande restauration ".
+
+
+
+*****************
+Adresses postales
+*****************
+
+
+******
+Rivoli
+******
+
+
+******************
+Titres de civilité
+******************
+
+
+************************
+Qualités de l'exploitant
+************************
+
+
+*********************
+Statuts de la demande
+*********************
+
+
+
+**********************
+Types d'établissements
+**********************
 
 
