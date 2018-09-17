@@ -234,12 +234,12 @@ Les champs sont les suivants :
 - **corps** : ...
 
 
-***********************
-Vérification sur le SIG
-***********************
+*********************
+Visualisation globale
+*********************
 
 
-Si le code rue existe et si le numéro dans la rue existe, il est possible de vérifier l'adresse dans le SIG sur la carte globale.
+Si l'établissement est géolocalisé on peut le visualiser sur la carte globale.
 
 .. image:: a_carte_globale.png
 
@@ -250,6 +250,3 @@ Il faut cliquer sur le point concerné et aller dans l'onglet Infos.
 Il est possible d'afficher une vue synthétique de l'établissement en cliquant sur sa raison sociale dans la liste des marqueurs.
 
 .. image:: a_carte_globale_overlay.png
-
-Voir manuel administrateur pour paramétrer le lien SIG (ici dynmap)
-
