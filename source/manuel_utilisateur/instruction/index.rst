@@ -40,10 +40,14 @@ Les champs sont les suivants :
 - Forme juridique
 - Permis d'exploitation (oui/non)
 - Date du permis d'exploitation
-- localisation (avec géolocalisation)
+- Localisation (avec géolocalisation)
 - Coordonnées de l'exploitant
 - Coordonnées du propriétaire : il est possible de copier les valeurs de l'exploitant dans celles du propriétaire grâce à la case à cocher "Identique à l'exploitant"
+- Coordonées du co-exploitant
+- Coordonnées de l'ancien exploitant
+- Coordonnées de l'ancien propriétaire
 - Date de fermeture/liquidation
+- Observations 
 
 .. _instruction_etablissement_formulaire_adresse_postale:
 
