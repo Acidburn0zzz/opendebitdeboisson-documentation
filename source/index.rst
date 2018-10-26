@@ -26,7 +26,7 @@ openDébitDeBoisson est destiné au service de demandes de débit de boissons et
 
 http://www.openmairie.org/catalogue/opendebitdeboisson
 
-Ce document a pour but de guider les utilisateurs et les développeurs dans la prise en main du projet. Bonne lecture et n'hésitez pas à venir discuter du projet avec la communauté à l’adresse suivante : https://communaute.openmairie.org/c/autres-applications-openmairie
+Ce document a pour but de guider les utilisateurs et les développeurs dans la prise en main du projet. Bonne lecture et n'hésitez pas à venir discuter du projet avec la communauté à l’adresse suivante : https://communaute.openmairie.org/c/opendebitdeboisson
 
 
 Manuel de l'utilisateur
